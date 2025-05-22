@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Chicken Tikka",
+        "description": "Tender chicken chunks marinated overnight in our house-blend of spices and slow-roasted to perfection in a traditional tandoor. Smoky, juicy, and packed with flavor",
+        "category": "starter",
+        "sub_category": "non_veg",
+        "cuisine": "indian",
+        "price": 320.00,
+        "image_url": "http://localhost:8000/media/images/chicken_tikka.webp"
+    },
+    {
+        "name": "Paneer Tikka",
+        "description": "Chunks of fresh paneer marinated in yogurt and spices, skewered and grilled till golden brown",
+        "category": "starter",
+        "sub_category": "veg",
+        "cuisine": "indian",
+        "price": 280.00,
+        "image_url": "http://localhost:8000/media/images/paneer_tikka.jpg"
+    },
+    {
+        "name": "Mutton Rogan Josh",
+        "description": "Slow-cooked mutton in a rich and aromatic Kashmiri-style curry",
+        "category": "main_course",
+        "sub_category": "non_veg",
+        "cuisine": "indian",
+        "price": 420.00,
+        "image_url": "http://localhost:8000/media/images/mutton_rogan_josh.webp"
+    },
+    {
+        "name": "Dal Makhani",
+        "description": "Creamy black lentils cooked overnight with butter and subtle spices",
+        "category": "main_course",
+        "sub_category": "veg",
+        "cuisine": "indian",
+        "price": 260.00,
+        "image_url": "http://localhost:8000/media/images/dal_makhani.jpg"
+    },
+    {
+        "name": "Chicken Biryani",
+        "description": "Fragrant basmati rice layered with spiced chicken and saffron, served with raita",
+        "category": "main_course",
+        "sub_category": "non_veg",
+        "cuisine": "indian",
+        "price": 350.00,
+        "image_url": "http://localhost:8000/media/images/chicken_biryani.jpg"
+    },
+    {
+        "name": "Veg Biryani",
+        "description": "Basmati rice cooked with garden-fresh vegetables and aromatic spices",
+        "category": "main_course",
+        "sub_category": "veg",
+        "cuisine": "indian",
+        "price": 300.00,
+        "image_url": "http://localhost:8000/media/images/veg_biryani.jpg"
+    },
+    {
+        "name": "Butter Chicken",
+        "description": "Classic North Indian dish of chicken in creamy tomato gravy with butter",
+        "category": "main_course",
+        "sub_category": "non_veg",
+        "cuisine": "indian",
+        "price": 390.00,
+        "image_url": "http://localhost:8000/media/images/butter_chicken.jpg"
+    },
+    {
+        "name": "Malai Kofta",
+        "description": "Deep-fried paneer balls served in a rich and creamy cashew curry",
+        "category": "main_course",
+        "sub_category": "veg",
+        "cuisine": "indian",
+        "price": 320.00,
+        "image_url": "http://localhost:8000/media/images/malai_kofta.webp"
+    },
+    {
+        "name": "Tandoori Chicken",
+        "description": "Bone-in chicken marinated with spices and yogurt, grilled in tandoor",
+        "category": "starter",
+        "sub_category": "non_veg",
+        "cuisine": "indian",
+        "price": 330.00,
+        "image_url": "http://localhost:8000/media/images/tandoori_chicken.jpg"
+    },
+    {
+        "name": "Spring Rolls",
+        "description": "Crispy vegetarian spring rolls served with sweet chili sauce",
+        "category": "starter",
+        "sub_category": "veg",
+        "cuisine": "chinese",
+        "price": 220.00,
+        "image_url": "http://localhost:8000/media/images/spring_rolls.jpg"
+    },
+    {
+        "name": "Manchurian Dry",
+        "description": "Crispy veggie balls tossed in a tangy Chinese sauce",
+        "category": "starter",
+        "sub_category": "veg",
+        "cuisine": "chinese",
+        "price": 240.00,
+        "image_url": "http://localhost:8000/media/images/manchurian_dry.jpeg"
+    },
+    {
+        "name": "Chicken Lollipop",
+        "description": "Fried chicken wings coated in spicy red batter and served with sauce",
+        "category": "starter",
+        "sub_category": "non_veg",
+        "cuisine": "chinese",
+        "price": 300.00,
+        "image_url": "http://localhost:8000/media/images/chicken_lollipop.jpeg"
+    },
+    {
+        "name": "Chole Bhature",
+        "description": "Spicy chickpeas served with deep-fried fluffy bread",
+        "category": "main_course",
+        "sub_category": "veg",
+        "cuisine": "indian",
+        "price": 200.00,
+        "image_url": "http://localhost:8000/media/images/chole_bhature.jpg"
+    },
+    {
+        "name": "Fish Curry",
+        "description": "Fresh fish simmered in a tangy and spicy Goan-style curry",
+        "category": "main_course",
+        "sub_category": "non_veg",
+        "cuisine": "indian",
+        "price": 380.00,
+        "image_url": "http://localhost:8000/media/images/fish_curry.jpg"
+    },
+    {
+        "name": "Veg Pulao",
+        "description": "Aromatic rice cooked with colorful vegetables and whole spices",
+        "category": "main_course",
+        "sub_category": "veg",
+        "cuisine": "indian",
+        "price": 240.00,
+        "image_url": "http://localhost:8000/media/images/veg_pulao.jpg"
+    }
+]
